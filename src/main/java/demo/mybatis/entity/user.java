@@ -3,7 +3,7 @@ package demo.mybatis.entity;
 import java.io.Serializable;
 
 public class user implements Serializable {
-
+String test;
     private Integer id;
     private String userName;
     private Integer userAge;
